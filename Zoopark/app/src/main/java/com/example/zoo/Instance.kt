@@ -1,4 +1,4 @@
-package com.plcoding.retrofitcrashcourse
+package com.example.zoo
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

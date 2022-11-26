@@ -1,4 +1,4 @@
-package com.plcoding.retrofitcrashcourse
+package com.example.zoo
 
 
 data class Animal(

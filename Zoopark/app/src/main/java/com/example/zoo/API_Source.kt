@@ -1,4 +1,4 @@
-package com.plcoding.retrofitcrashcourse
+package com.example.zoo
 
 import retrofit2.Response
 import retrofit2.http.GET
